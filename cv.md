@@ -35,9 +35,7 @@ I feel strong and confident that I can become a qualified front-end developer.
 ### Code example:
 
 function multiply(a, b){
-
 return a * b
-
 }​
 
 ***
