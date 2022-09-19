@@ -1,1 +1,1 @@
-[Artur Firstow](https://ArturFirsrtow.github.io/rsschool-cv/cv)
+[Artur Firstow](https://arturfirsrtow.github.io/rsschool-cv)
